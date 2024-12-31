@@ -1,21 +1,15 @@
-## Hi there 👋
-- 🌱 I’m currently learning ...
+<div align=center>
+<h2> 안녕하세요!
+<br>FrontEnd Devloper 신유수입니다!</h2>
+
   
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<h3 align=left>✏️ I’m currently learning</h3>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 
-Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tlsdbtn0507)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**tlsdbtn0507/tlsdbtn0507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<h3 align=left>Github Stats</h3>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tlsdbtn0507)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
