@@ -7,9 +7,10 @@
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 
-<br>
 
 <h3 align=left>Github Stats</h3>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tlsdbtn0507)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tlsdbtn0507&show_icons=true&theme=radical)
+[![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tlsdbtn0507&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=tokyonight)](https://github.com/tlsdbtn0507)
 
 </div>
