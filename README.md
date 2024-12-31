@@ -2,6 +2,9 @@
 - 🌱 I’m currently learning ...
   
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+Github Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tlsdbtn0507)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **tlsdbtn0507/tlsdbtn0507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
